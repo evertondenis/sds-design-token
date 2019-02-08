@@ -1,0 +1,28 @@
+{
+  "global": {
+    "type": "size",
+    "category": "sizing"
+  },
+  "props": {
+    "CONTAINER_MAX_WIDTH": {
+      "value": "74.75rem",
+      "type": "size"
+    },
+    "CONTAINER_M_WIDTH": {
+      "value": "49rem",
+      "type": "size"
+    },
+    "CONTAINER_S_WIDTH": {
+      "value": "35rem",
+      "type": "size"
+    },
+    "CONTAINER_XS_WIDTH": {
+      "value": "17.5rem",
+      "type": "size"
+    },
+    "CONTAINER_MOBILE_WIDTH": {
+      "value": "20rem",
+      "type": "size"
+    }
+  }
+}

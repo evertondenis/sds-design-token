@@ -1,0 +1,20 @@
+{
+  "global": {
+    "type": "size",
+    "category": "media-query"
+  },
+  "props": {
+    "MEDIA_QUERY_SMALL": {
+      "value": "36rem",
+      "type": "size"
+    },
+    "MEDIA_QUERY_MEDIUM": {
+      "value": "48rem",
+      "type": "size"
+    },
+    "MEDIA_QUERY_LARGE": {
+      "value": "62rem",
+      "type": "size"
+    }
+  }
+}

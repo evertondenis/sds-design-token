@@ -1,0 +1,36 @@
+{
+  "global": {
+    "type": "opacity",
+    "category": "opacities"
+  },
+  "props": {
+    "OPACITY_BACKGROUND_LIGHT_HOVER": {
+      "value": "0.04",
+      "type": "opacity"
+    },
+    "OPACITY_BACKGROUND_LIGHT_SELECTED": {
+      "value": "0.08",
+      "type": "opacity"
+    },
+    "OPACITY_BACKGROUND_LIGHT_ACTIVE": {
+      "value": "0.24",
+      "type": "opacity"
+    },
+    "OPACITY_BACKGROUND_DARK_HOVER": {
+      "value": "0.12",
+      "type": "opacity"
+    },
+    "OPACITY_BACKGROUND_DARK_SELECTED": {
+      "value": "0.16",
+      "type": "opacity"
+    },
+    "OPACITY_BACKGROUND_DARK_ACTIVE": {
+      "value": "0.24",
+      "type": "opacity"
+    },
+    "OPACITY_DISABLED": {
+      "value": "0.4",
+      "type": "opacity"
+    }
+  }
+}

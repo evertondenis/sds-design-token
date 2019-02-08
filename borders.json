@@ -1,0 +1,44 @@
+{
+  "global": {
+    "type": "border",
+    "category": "borders"
+  },
+  "props": {
+    "BORDER_SIZE_SM": {
+      "value": "1px",
+      "type": "size"
+    },
+    "BORDER_SIZE_MD": {
+      "value": "2px",
+      "type": "size"
+    },
+    "BORDER_SIZE_LG": {
+      "value": "3px",
+      "type": "size"
+    },
+    "BORDER_RADIUS": {
+      "value": "4px",
+      "type": "size"
+    },
+    "COLOR_BORDER_LIGHT": {
+      "value": "rgba(0,0,0,0.12)",
+      "type": "color"
+    },
+    "COLOR_BORDER_MEDIUM": {
+      "value": "rgba(0,0,0,0.24)",
+      "type": "color"
+    },
+    "COLOR_BORDER_DARK": {
+      "value": "rgba(0,0,0,0.60)",
+      "type": "color"
+    },
+    "COLOR_BORDER_WHITE_LIGHT": {
+      "value": "rgba(255,255,255,0.20)",
+      "type": "color"
+    },
+    "COLOR_BORDER_WHITE_MEDIUM": {
+      "value": "rgba(255,255,255,0.38)",
+      "type": "color"
+    }
+  }
+}

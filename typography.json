@@ -1,0 +1,40 @@
+{
+  "global": {
+    "type": "size",
+    "category": "typography"
+  },
+  "props": {
+    "FONT_FAMILY_PRIMARY": {
+      "value": "Open Sans, sans-serif",
+      "type": "font-family"
+    },
+    "FONT_FAMILY_SECONDARY": {
+      "value": "Montserrat, sans-serif",
+      "type": "font-family"
+    },
+    "FONT_SIZE_BASE": {
+      "value": "1rem",
+      "type": "font-size"
+    },
+    "FONT_SIZE_SM": {
+      "value": "0.875rem",
+      "type": "font-size"
+    },
+    "FONT_SIZE_XS": {
+      "value": "0.75rem",
+      "type": "font-size"
+    },
+    "LINE_HEIGHT_BASE": {
+      "value": "1.5rem",
+      "type": "size"
+    },
+    "LINE_HEIGHT_SM": {
+      "value": "1.25rem",
+      "type": "size"
+    },
+    "LINE_HEIGHT_XS": {
+      "value": "1rem",
+      "type": "size"
+    }
+  }
+}

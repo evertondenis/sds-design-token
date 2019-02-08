@@ -1,0 +1,34 @@
+{
+  "name": "sds-design-token",
+  "version": "0.0.2",
+  "description": "Design token for development UI",
+  "license": "MIT",
+  "dependencies": {
+    "theo": "^8.1.1"
+  },
+  "scripts": {
+    "tokens": "yarn colors && yarn animations && yarn borders && yarn opacities && yarn spacings && yarn typography && yarn widths && yarn media-queries",
+    "animations": "theo animations.json --transform web --format common.js --dest ./tokens",
+    "borders": "theo borders.json --transform web --format common.js --dest ./tokens",
+    "colors": "theo colors.json --transform web --format common.js --dest ./tokens",
+    "media-queries": "theo media-queries.json --transform web --format common.js --dest ./tokens",
+    "opacities": "theo opacities.json --transform web --format common.js --dest ./tokens",
+    "spacings": "theo spacings.json --transform web --format common.js --dest ./tokens",
+    "typography": "theo typography.json --transform web --format common.js --dest ./tokens",
+    "widths": "theo widths.json --transform web --format common.js --dest ./tokens"
+  },
+  "main": "tokens/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertondenis/sds-design-token.git"
+  },
+  "keywords": [
+    "design-token"
+  ],
+  "author": "everton denis",
+  "bugs": {
+    "url": "https://github.com/evertondenis/sds-design-token/issues"
+  },
+  "homepage": "https://github.com/evertondenis/sds-design-token#readme"
+}

@@ -1,0 +1,44 @@
+{
+  "global": {
+    "type": "size",
+    "category": "spacings"
+  },
+  "props": {
+    "SPACING_NONE": {
+      "value": "0rem",
+      "type": "size"
+    },
+    "SPACING_XXS": {
+      "value": ".125rem",
+      "type": "size"
+    },
+    "SPACING_XS": {
+      "value": ".25rem",
+      "type": "size"
+    },
+    "SPACING_SM": {
+      "value": "0.5rem",
+      "type": "size"
+    },
+    "SPACING_MD": {
+      "value": "0.75rem",
+      "type": "size"
+    },
+    "SPACING_BASE": {
+      "value": "1rem",
+      "type": "size"
+    },
+    "SPACING_LG": {
+      "value": "1.5rem",
+      "type": "size"
+    },
+    "SPACING_XL": {
+      "value": "2rem",
+      "type": "size"
+    },
+    "SPACING_XXL": {
+      "value": "2.5rem",
+      "type": "size"
+    }
+  }
+}
