@@ -1,6 +1,6 @@
 {
   "name": "sds-design-token",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Design token for development UI",
   "license": "MIT",
   "dependencies": {
