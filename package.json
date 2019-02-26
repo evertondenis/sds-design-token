@@ -1,6 +1,6 @@
 {
   "name": "sds-design-token",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "Design token for development UI",
   "license": "MIT",
   "dependencies": {
@@ -17,7 +17,10 @@
     "typography": "theo typography.json --transform web --format common.js --dest ./tokens",
     "widths": "theo widths.json --transform web --format common.js --dest ./tokens"
   },
-  "main": "tokens/index.js",
+  "main": "./tokens/index.js",
+  "files": [
+    "/tokens"
+  ],
   "devDependencies": {},
   "repository": {
     "type": "git",
