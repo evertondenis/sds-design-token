@@ -1,3 +1,17 @@
-# sds-design-token
+# SDS Design Tokens
 
-`chmod +x scripts/start.sh`
+##
+
+SDS Design Tokens is an experimental project to generate design-tokens to create UI components with some base specific design system
+
+#
+
+Before run build, you need to give to permission to \*.sh file:
+
+```sh
+chmod +x scripts/start.sh
+```
+
+#
+
+[![npm version](https://img.shields.io/badge/npm-v0.0.8-green.svg)](https://img.shields.io/badge/npm-v0.0.8-green.svg)
