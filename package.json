@@ -7,15 +7,7 @@
     "theo": "^8.1.1"
   },
   "scripts": {
-    "tokens": "yarn colors && yarn animations && yarn borders && yarn opacities && yarn spacings && yarn typography && yarn widths && yarn media-queries",
-    "animations": "theo animations.json --transform web --format common.js --dest ./tokens",
-    "borders": "theo borders.json --transform web --format common.js --dest ./tokens",
-    "colors": "theo colors.json --transform web --format common.js --dest ./tokens",
-    "media-queries": "theo media-queries.json --transform web --format common.js --dest ./tokens",
-    "opacities": "theo opacities.json --transform web --format common.js --dest ./tokens",
-    "spacings": "theo spacings.json --transform web --format common.js --dest ./tokens",
-    "typography": "theo typography.json --transform web --format common.js --dest ./tokens",
-    "widths": "theo widths.json --transform web --format common.js --dest ./tokens"
+    "build": "./scripts/start.sh"
   },
   "main": "./tokens/index.js",
   "files": [
