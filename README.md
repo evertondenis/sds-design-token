@@ -1,6 +1,6 @@
 # SDS Design Tokens
 
-[![npm version](https://img.shields.io/badge/npm-v0.0.8-green.svg)](https://www.npmjs.com/package/sds-design-token)
+<!--[![npm version](https://img.shields.io/badge/npm-v0.0.8-green.svg)](https://www.npmjs.com/package/sds-design-token)--->
 
 SDS Design Tokens is an experimental project to generate design-tokens to create UI components with some base specific design system
 
