@@ -16,7 +16,7 @@ yarn add sds-design-token
 
 ## Usage
 
-** Example with styled-components:**
+Example with styled-components:
 
 ```jsx
 import styled from 'styled-components';
@@ -45,7 +45,7 @@ export const Button = styled.button`
 `;
 ```
 
-Take a look at this working example at [codesandbox.io](https://codesandbox.io/s/y21k4l9729)
+**Take a look at this working example at** [codesandbox.io](https://codesandbox.io/s/y21k4l9729)
 
 ## Properties
 
